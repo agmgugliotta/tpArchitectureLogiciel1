@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c58ec930-cf5d-4b2b-b611-9279e188bbce" name="Default Changelist" comment="" />
+    <list default="true" id="c49adaaa-fe0e-488e-8a3b-de641473500e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apiscine/Core/Controllers/BaseController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiscine/Core/Entity/BaseEntity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiscine/Core/Entity/BaseModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiscine/Services/Piscine/Models/Piscine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiscine/APIscine.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apiscine" />
   </component>
-  <component name="ProjectId" id="1dWwFjary2DdYxMdGkhTO2hu8xc" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dWyU23s0HctSfG1fgIXvkeCOkH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,20 +41,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.1" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Omikami\Documents\Cours\YNOV\Architecture logiciel\APIscine\apiscine\Services\Piscine" />
+      <recent name="C:\Users\Omikami\Documents\Cours\YNOV\Architecture logiciel\APIscine\apiscine\Services" />
+      <recent name="C:\Users\Omikami\Documents\Cours\YNOV\Architecture logiciel\APIscine\apiscine\Services\Models" />
+      <recent name="C:\Users\Omikami\Documents\Cours\YNOV\Architecture logiciel\APIscine\apiscine\Services\Models\Piscine" />
+      <recent name="C:\Users\Omikami\Documents\Cours\YNOV\Architecture logiciel\APIscine\apiscine\Core" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c58ec930-cf5d-4b2b-b611-9279e188bbce" name="Default Changelist" comment="" />
-      <created>1592554054988</created>
+      <changelist id="c49adaaa-fe0e-488e-8a3b-de641473500e" name="Default Changelist" comment="" />
+      <created>1592555156054</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592554054988</updated>
-      <workItem from="1592554057209" duration="897000" />
+      <updated>1592555156054</updated>
+      <workItem from="1592555159575" duration="10624000" />
     </task>
     <servers />
   </component>
@@ -43,9 +72,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592554065165">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592555758143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592554065165" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592555758143" />
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592559223598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592559223598" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592558195548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592558195548" />
+    <state x="625" y="219" key="NewModule_or_Project.wizard" timestamp="1592555832259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592555832259" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592559919412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592559919412" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592555180388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592555180388" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592555764245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592555764245" />
   </component>
 </project>
