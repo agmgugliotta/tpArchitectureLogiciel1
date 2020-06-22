@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c49adaaa-fe0e-488e-8a3b-de641473500e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apiscine/Core/Controllers/BaseController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiscine/Core/Entity/BaseEntity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiscine/Core/Entity/BaseModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiscine/Services/Piscine/Models/Piscine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiscine/APIscine.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/Core/Controllers/BaseController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/Core/Entity/BaseEntity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/Core/Entity/BaseModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/projet/Core/Entity/BaseModel.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/Services/Piscine/Models/Piscine.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +16,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apiscine" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projet" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -43,7 +43,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.1" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592555156054</updated>
-      <workItem from="1592555159575" duration="10624000" />
+      <workItem from="1592555159575" duration="11168000" />
+      <workItem from="1592574008603" duration="2590000" />
     </task>
     <servers />
   </component>
@@ -72,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1592572233382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592572233382" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592555758143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -88,14 +97,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="625" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592555832259" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1592559919412">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592572588476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592559919412" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592555180388">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592572588476" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592574008590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592555180388" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592574008590" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592555764245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
